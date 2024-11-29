@@ -19,6 +19,8 @@ Make sure to reload to enable changes with this command: sudo systemctl reload n
 ## 5. How can you check the status of your firewall?
 You can use this command to check the status of the firewall: sudo ufw status
 
+![success-I-think](https://github.com/user-attachments/assets/b3a21086-e334-493c-be29-3299c5d4a872)
+
 
 
 
